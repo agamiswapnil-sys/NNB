@@ -1,0 +1,270 @@
+[
+  {
+    "id": "navhyam",
+    "name": "Navhyam N B",
+    "sport": "Speed Skating",
+    "photo": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=1000&q=85",
+    "bio": "A competitive inline speed skater from Assam, passionate about speed, discipline and continuous improvement. Navhyam competes in national and state-level tournaments with a focus on professional wheel-style skating.",
+    "instagram": "https://www.instagram.com/",
+    "highlights": [
+      "National Championship Silver Medal (2025)",
+      "State Championship Gold Medal (2024)",
+      "All India Ranking — Top 10",
+      "Multiple medalist in 1000m, 500m and 300m",
+      "Represented Assam at national events",
+      "Best Performance Award — State Meet (2024)"
+    ],
+    "events": [
+      {
+        "id": "national-inline-2025",
+        "title": "National Inline Speed Skating Championship 2025",
+        "venue": "Gachibowli Skating Arena, Hyderabad",
+        "date": "12–16 February 2025",
+        "category": "Inline Speed Skating · 500m and 1000m",
+        "result": "Silver medal — 1000m; Bronze medal — 500m",
+        "images": [
+          "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=900&q=85"
+        ]
+      },
+      {
+        "id": "assam-state-2024",
+        "title": "Assam State Skating Championship 2024",
+        "venue": "RG Baruah Sports Complex, Guwahati, Assam",
+        "date": "05–08 November 2024",
+        "category": "Inline Speed Skating · 500m and 1000m",
+        "result": "Gold medal — 1000m",
+        "images": []
+      },
+      {
+        "id": "east-zone-2024",
+        "title": "East Zone Skating Meet 2024",
+        "venue": "Kolkata, West Bengal",
+        "date": "18–21 July 2024",
+        "category": "Inline Speed Skating · 500m",
+        "result": "Bronze medal — 500m",
+        "images": []
+      },
+      {
+        "id": "ranking-series-2023",
+        "title": "National Ranking Series — Stage 1 (2023)",
+        "venue": "Bengaluru, Karnataka",
+        "date": "10–13 December 2023",
+        "category": "Professional Wheel · 500m",
+        "result": "Top 10 finish",
+        "images": []
+      },
+      {
+        "id": "assam-meet-2023",
+        "title": "Assam State Skating Meet 2023",
+        "venue": "Guwahati, Assam",
+        "date": "15–17 August 2023",
+        "category": "Inline Speed Skating · 300m and 500m",
+        "result": "Gold medal — 500m; Silver medal — 300m",
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "aarohi",
+    "name": "Aarohi Das",
+    "sport": "Athletics",
+    "photo": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=1000&q=85",
+    "bio": "A determined young track athlete who brings focus and energy to every training session. Aarohi is building a strong foundation in sprinting and middle-distance events.",
+    "instagram": "https://www.instagram.com/",
+    "highlights": [
+      "State Junior Athletics finalist (2025)",
+      "Gold medal — District 400m (2024)",
+      "Personal best — 400m",
+      "Inter-school relay champion",
+      "NNB Academy Most Improved Athlete (2024)"
+    ],
+    "events": [
+      {
+        "id": "state-junior-2025",
+        "title": "Assam State Junior Athletics Meet 2025",
+        "venue": "Indira Gandhi Athletic Stadium, Guwahati",
+        "date": "08–11 March 2025",
+        "category": "Track and Field · 200m and 400m",
+        "result": "Finalist — 400m",
+        "images": []
+      },
+      {
+        "id": "district-track-2024",
+        "title": "Guwahati District Track Meet 2024",
+        "venue": "Guwahati, Assam",
+        "date": "21–23 September 2024",
+        "category": "Track and Field · 400m",
+        "result": "Gold medal — 400m",
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "ritwik",
+    "name": "Ritwik Sharma",
+    "sport": "Badminton",
+    "photo": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&w=1000&q=85",
+    "bio": "An enthusiastic badminton player known for quick footwork and a thoughtful approach to the game. Ritwik competes in junior singles and doubles while developing an all-court style.",
+    "instagram": "https://www.instagram.com/",
+    "highlights": [
+      "State Junior Doubles semifinalist (2025)",
+      "District Singles champion (2024)",
+      "East Zone Junior quarterfinalist",
+      "NNB Academy Rally of the Year (2024)",
+      "Selected for state development camp"
+    ],
+    "events": [
+      {
+        "id": "state-junior-badminton-2025",
+        "title": "Assam State Junior Badminton Championship 2025",
+        "venue": "DTRP Indoor Stadium, Guwahati",
+        "date": "14–18 January 2025",
+        "category": "Junior · Boys Doubles",
+        "result": "Semifinalist",
+        "images": []
+      },
+      {
+        "id": "district-badminton-2024",
+        "title": "Guwahati District Badminton Championship 2024",
+        "venue": "Guwahati, Assam",
+        "date": "05–09 October 2024",
+        "category": "Junior · Boys Singles",
+        "result": "Gold medal",
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "megha",
+    "name": "Megha Nath",
+    "sport": "Swimming",
+    "photo": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1000&q=85",
+    "bio": "A confident swimmer with a love for the water and a steady commitment to training. Megha focuses on freestyle and backstroke, balancing technique, endurance and race-day confidence.",
+    "instagram": "https://www.instagram.com/",
+    "highlights": [
+      "State Swimming Meet silver medal (2025)",
+      "Gold medal — District 100m Freestyle (2024)",
+      "Junior relay team champion",
+      "Personal best — 50m Freestyle",
+      "NNB Academy Coaches' Choice Award"
+    ],
+    "events": [
+      {
+        "id": "state-swimming-2025",
+        "title": "Assam State Aquatic Championship 2025",
+        "venue": "Dr. Zakir Hussain Aquatic Complex, Guwahati",
+        "date": "19–22 June 2025",
+        "category": "Junior · 50m Freestyle and 100m Freestyle",
+        "result": "Silver medal — 50m Freestyle",
+        "images": []
+      },
+      {
+        "id": "district-swimming-2024",
+        "title": "Guwahati District Swimming Meet 2024",
+        "venue": "Guwahati, Assam",
+        "date": "02–04 August 2024",
+        "category": "Junior · 100m Freestyle",
+        "result": "Gold medal — 100m Freestyle",
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "arjun",
+    "name": "Arjun Kalita",
+    "sport": "Karate",
+    "photo": "https://images.unsplash.com/photo-1555597673-b21d5c935865?auto=format&fit=crop&w=1000&q=85",
+    "bio": "A disciplined karate student who values respect, perseverance and the small improvements made every day. Arjun is progressing through kata and kumite competition.",
+    "instagram": "https://www.instagram.com/",
+    "highlights": [
+      "State Karate Championship bronze (2025)",
+      "Gold medal — District Kata (2024)",
+      "East Zone Kumite quarterfinalist",
+      "Earned brown belt",
+      "Academy Spirit Award (2023)"
+    ],
+    "events": [
+      {
+        "id": "state-karate-2025",
+        "title": "Assam State Karate Championship 2025",
+        "venue": "Nehru Stadium Indoor Hall, Guwahati",
+        "date": "07–09 February 2025",
+        "category": "Cadet · Kumite",
+        "result": "Bronze medal",
+        "images": []
+      },
+      {
+        "id": "district-karate-2024",
+        "title": "Guwahati District Karate Championship 2024",
+        "venue": "Guwahati, Assam",
+        "date": "11–13 October 2024",
+        "category": "Cadet · Kata",
+        "result": "Gold medal",
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "ishita",
+    "name": "Ishita Baruah",
+    "sport": "Cycling",
+    "photo": "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&w=1000&q=85",
+    "bio": "An adventurous young cyclist who enjoys the challenge of the open road. Ishita is developing her endurance and race craft through structured training and local competitions.",
+    "instagram": "https://www.instagram.com/",
+    "highlights": [
+      "State Youth Cycling Meet silver (2025)",
+      "District road race champion (2024)",
+      "Completed first 40 km road event",
+      "Junior team time-trial finalist",
+      "NNB Academy Endurance Award (2024)"
+    ],
+    "events": [
+      {
+        "id": "state-cycling-2025",
+        "title": "Assam State Youth Cycling Championship 2025",
+        "venue": "National Games Cycling Velodrome, Guwahati",
+        "date": "16–18 May 2025",
+        "category": "Youth · Road race",
+        "result": "Silver medal",
+        "images": []
+      },
+      {
+        "id": "district-cycling-2024",
+        "title": "Guwahati District Road Race 2024",
+        "venue": "Guwahati, Assam",
+        "date": "28–29 September 2024",
+        "category": "Junior · Road race",
+        "result": "Gold medal",
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "sandip",
+    "name": "Sandip Sharma",
+    "sport": "Cricket ",
+    "photo": "https://images.unsplash.com/photo-1776229705277-8d46c945ff1a?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "bio": "An adventurous young cyclist who enjoys the challenge of the open road. Ishita is developing her endurance and race craft through structured training and local competitions.",
+    "instagram": "https://images.unsplash.com/photo-1776229705277-8d46c945ff1a?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "highlights": [
+      "State Youth Cricket  (2026)",
+      "Cricket  champion (2025)",
+      "Completed Event Cricket (2024)",
+      "Junior team time-trial finalist (2023)",
+      "Cricket  Academy Award (2022)"
+    ],
+    "events": [
+      {
+        "id": "state-2026",
+        "title": "Cricket Championship 2026",
+        "venue": "National Cricket, Mumbai",
+        "date": "16–18 May 2026",
+        "category": "Cricket",
+        "result": "Topic",
+        "images": [
+          "https://images.unsplash.com/photo-1776229705277-8d46c945ff1a?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+        ]
+      }
+    ]
+  }
+]

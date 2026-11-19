@@ -1,0 +1,19 @@
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+
+# Server user data
+server/data/submissions.json
+
+node_modules.zip
